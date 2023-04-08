@@ -1,5 +1,5 @@
 # camera-rtsp-stream-checker
-Check multiple RTSP streams from the list in one click.
+Check multiple RTSP streams if Up or Down from the list in one click.
 
 
 /*========================================================================
