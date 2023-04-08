@@ -1,11 +1,13 @@
 # camera-rtsp-stream-checker
 Check multiple RTSP streams from the list in one click.
 
-Source file camera-rtsp-stream-checker.py have a 1.5-second timeout if the stream not responding.
+Source file camera-rtsp-stream-checker.py 
 
 CSV file example rtsp-url-list.csv
 
-Compiled file camera-rtsp-stream-checker.exe
+Down streams logged to stream-down-log.csv
+
+Compiled file camera-rtsp-stream-checker.exe ave a 1.5-second timeout if the stream not responding.
 
 /*========================================================================
 
