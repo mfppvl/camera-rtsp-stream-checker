@@ -1,21 +1,14 @@
 # camera-rtsp-stream-checker
 Check multiple RTSP streams from the list in one click.
 
-Source file camera-rtsp-stream-checker.py 
-
-CSV file example rtsp-url-list.csv
-
-Down streams logged to stream-down-log.csv
-
-Compiled file camera-rtsp-stream-checker.exe can be found here https://drive.google.com/file/d/11dt34NDgVDAUoqdfu7ejeMiCyPMv0ibF/view?usp=share_link
-Compiled file has a 1.5-second timeout if the stream not responding.
 
 /*========================================================================
 
 README
 Apt 07, 2023 21:09
 Copyright (c) 2022 Pavel Asanov
-https://pasanov.com *========================================================================
+https://pasanov.com 
+*========================================================================
 This file is part of camera-rtsp-stream-checker.
 camera-rtsp-stream-checker is free interactive software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -32,3 +25,15 @@ along with camera-rtsp-stream-checker. If not, see http://www.gnu.org/licenses/.
 Completely FREE (no-ads) and doesn't require any unsafe permissions.
 
 Open-source app released under the GNU General Public License.
+
+=======================================================================
+
+Source file camera-rtsp-stream-checker.py 
+
+CSV file example rtsp-url-list.csv
+
+Down streams logged to stream-down-log.csv
+
+Compiled file camera-rtsp-stream-checker.exe can be found here https://drive.google.com/file/d/11dt34NDgVDAUoqdfu7ejeMiCyPMv0ibF/view?usp=share_link
+
+Compiled file has a 1.5-second timeout if the stream not responding.
