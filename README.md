@@ -7,7 +7,8 @@ CSV file example rtsp-url-list.csv
 
 Down streams logged to stream-down-log.csv
 
-Compiled file camera-rtsp-stream-checker.exe ave a 1.5-second timeout if the stream not responding.
+Compiled file camera-rtsp-stream-checker.exe can be found here https://drive.google.com/file/d/11dt34NDgVDAUoqdfu7ejeMiCyPMv0ibF/view?usp=share_link
+Compiled file has a 1.5-second timeout if the stream not responding.
 
 /*========================================================================
 
