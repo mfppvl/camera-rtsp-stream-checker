@@ -30,6 +30,8 @@ Open-source app released under the GNU General Public License.
 
 Source file camera-rtsp-stream-checker.py 
 
+Email configuration in the config.json
+
 CSV file example rtsp-url-list.csv
 
 Down streams logged to stream-down-log.csv
