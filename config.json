@@ -1,0 +1,10 @@
+{
+  "from_address": "example@example.com",
+  "to_address": "example@example.com",
+  "subject": "Log File for DVR/NVR Up or Down Status",
+  "body": "Please find attached the log file.",
+  "smtp_server": "smtp-relay.sendinblue.com",
+  "smtp_port": 587,
+  "smtp_username": "example@example.com",
+  "smtp_password": "examplepassword"
+}
