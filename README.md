@@ -6,7 +6,7 @@ Check multiple RTSP streams if Up or Down from the list in one click.
 
 README
 Apt 07, 2023 21:09
-Copyright (c) 2022 Pavel Asanov
+Copyright (c) 2023 Pavel Asanov
 https://pasanov.com 
 *========================================================================
 This file is part of camera-rtsp-stream-checker.
@@ -35,7 +35,3 @@ Email configuration in the config.json
 CSV file example rtsp-url-list.csv
 
 Down streams logged to stream-down-log.csv
-
-Compiled file camera-rtsp-stream-checker.exe can be found here https://drive.google.com/file/d/11dt34NDgVDAUoqdfu7ejeMiCyPMv0ibF/view?usp=share_link
-
-Compiled file has a 1.5-second timeout if the stream not responding.
